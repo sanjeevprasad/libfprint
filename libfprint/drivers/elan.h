@@ -208,6 +208,7 @@ static const struct usb_id elan_id_table[] = {
 	{.vendor = ELAN_VEND_ID,.product = 0x0c31,.driver_data = ELAN_ALL_DEV},
 	{.vendor = ELAN_VEND_ID,.product = 0x0c32,.driver_data = ELAN_ALL_DEV},
 	{.vendor = ELAN_VEND_ID,.product = 0x0c33,.driver_data = ELAN_ALL_DEV},
+	{.vendor = ELAN_VEND_ID,.product = 0x0c5e,.driver_data = ELAN_ALL_DEV},
 	{0, 0, 0,},
 };
 
